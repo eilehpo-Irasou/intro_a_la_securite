@@ -1,0 +1,4 @@
+main:
+	mov r1 #42
+	prn r1
+	prc #10
